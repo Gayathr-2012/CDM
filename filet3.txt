@@ -1,1 +1,3 @@
-This is in dev branch conflict check 
+
+This is in dev branch changed by 1000_1fix conflict
+
